@@ -14,6 +14,7 @@ We are excited about your interest in contributing to our web application projec
 	- Use clear, descriptive commit messages (e.g., "Fix bug in user authentication" or "Add search functionality").
 		
 	- Avoid large, monolithic commits; commit frequently and logically.
+		- Try to make your Commits Reverable / Atomic
 		
 - **Pull Requests**:
 	- All contributions must be submitted via pull requests (PRs).
